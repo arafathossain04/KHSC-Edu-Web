@@ -1,2 +1,3 @@
-# KHSC-Edu-Web
-it's a website for kurmitola high school and college
+# KHSC-Web-portal
+
+[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-tg8upnvd)
